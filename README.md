@@ -1,2 +1,0 @@
-# backupauto
-site automobile
